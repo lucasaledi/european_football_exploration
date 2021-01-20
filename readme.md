@@ -21,6 +21,7 @@ After reviewing the information available in this analysis, one could come to th
 A presentation for this project has not yet been made. We'll look into it after further investigating the database for some ML models.
 
 
-#Credits
+# Credits
 github.com/lucasaledi
+
 udacity.com

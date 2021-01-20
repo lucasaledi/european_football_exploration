@@ -1,4 +1,4 @@
-# Project2 - European Soccer Database
+# European Soccer Database Exploration
 ## by Lucas Aledi
 
 # Dataset Overview
